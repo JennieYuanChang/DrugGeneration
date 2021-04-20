@@ -165,7 +165,7 @@ preshed==1.0.1
 prompt-toolkit==1.0.14
 psutil==5.2.2
 ptyprocess==0.5.1
-py==1.4.33
+py==1.10.0
 pyarrow==0.10.0
 pycairo==1.18.0
 pycosat==0.6.3
