@@ -55,7 +55,7 @@ feather-format==0.4.0
 filelock==3.0.10
 Fiona==1.7.13
 Flask==0.12.2
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 gast==0.2.0
 gensim==3.6.0
 geopandas==0.4.0
