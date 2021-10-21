@@ -10,7 +10,7 @@ astor==0.6.2
 astroid==1.4.9
 astropy==1.3.2
 awscli==1.11.146
-Babel==2.4.0
+Babel==2.9.1
 backports.shutil-get-terminal-size==1.0.0
 bcolz==1.2.1
 beautifulsoup4==4.6.0
