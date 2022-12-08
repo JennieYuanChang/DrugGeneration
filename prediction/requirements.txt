@@ -23,7 +23,7 @@ boto3==1.9.8
 botocore==1.12.8
 Bottleneck==1.2.1
 bz2file==0.98
-certifi==2018.4.16
+certifi==2022.12.7
 cffi==1.10.0
 chardet==3.0.3
 chemvae==1.0.0
