@@ -1,5 +1,5 @@
 awscli==1.11.146
-certifi==2018.10.15
+certifi==2022.12.7
 chemvae==1.0.0
 cycler==0.10.0
 docutils==0.14
